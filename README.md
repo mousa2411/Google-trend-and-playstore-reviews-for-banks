@@ -1,4 +1,4 @@
-# Play Store Review comparision for indian banks
+# Play Store Review Comparision for Indian  Banks
 1.HDFC
 2.KOTAK
 3.IDFC
